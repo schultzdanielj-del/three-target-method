@@ -2,7 +2,7 @@
 
 ## The system
 
-It takes in your sacrifice and outputs a lean, muscular physique at a highly optimized rate for what you put in.
+A quantitative system. It takes in your sacrifice and outputs a lean, muscular physique at a highly optimized rate for what you put in.
 
 Who it's for: people who have some lifting experience already and know how to perform the lifts generally correctly. You don't need to have hit a plateau, but it will break one.
 
@@ -13,6 +13,10 @@ Output: a lean, muscular physique. More cuts in the mirror and more muscle than 
 Goal: max results per unit of sacrifice.
 
 How it optimizes: every method/habit is measured by results per unit of sacrifice using the pareto principle. The top percentile make the cut and are increased. The bottom are eliminated.
+
+Progress: extremely black and white quantification. Every work set is scored with (weight × reps × 0.0333) + weight. A good PR is +1-4%.
+
+Clarity: the protocol is extremely clear about exactly what to do and how to do it.
 
 Constraints:
 - Drug free.
