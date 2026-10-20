@@ -1,5 +1,32 @@
 # Three Target Method (TTM)
 
+## The system
+
+It takes in your sacrifice and outputs a lean, muscular physique at a highly optimized rate for what you put in.
+
+Who it's for: people who have some lifting experience already and know how to perform the lifts generally correctly. You don't need to have hit a plateau, but it will break one.
+
+Input: sacrifice. Time, focus, and other life priorities.
+
+Output: a lean, muscular physique. More cuts in the mirror and more muscle than ever before in the right spots, even if your first workout was 20 years ago.
+
+Goal: max results per unit of sacrifice.
+
+How it optimizes: every method/habit is measured by results per unit of sacrifice using the pareto principle. The top percentile make the cut and are increased. The bottom are eliminated.
+
+Constraints:
+- Drug free.
+- 2 or 3 workouts per week, a 40-50% reduction in weekly time investment.
+- No off-limits food, no calorie counting.
+- Works for people with other life priorities.
+
+Three targets the system hits:
+1. Minimum Life Sacrifice
+2. Long Term Muscle
+3. Lower Bodyfat
+
+Who made it: Dan Schultz. 17 years professional fitness coaching experience, 10,000+ hours 1 on 1, in groups, and online. National level competitive powerlifter in his 20's. Drug free his entire life. He works a sedentary office job from home with two small children, and built this method for himself to stay in the best shape possible with the absolute least amount of time and focus required. It took 3 years to refine, and he now uses it on clients.
+
 Intermediate drug free physiques hit a plateau that can only be broken by throwing away almost everything that got your body to where it is now. You'll see more cuts in the mirror and more muscle than ever before in the right spots, even if your first workout was 20 years ago.
 
 The full eating and workout protocols are laid out in full detail to learn 100% for free.

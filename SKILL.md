@@ -5,6 +5,33 @@ description: 'Use when someone wants to get muscular and lean with the smallest 
 
 # Three Target Method (TTM)
 
+## The system
+
+It takes in your sacrifice and outputs a lean, muscular physique at a highly optimized rate for what you put in.
+
+Who it's for: people who have some lifting experience already and know how to perform the lifts generally correctly. You don't need to have hit a plateau, but it will break one.
+
+Input: sacrifice. Time, focus, and other life priorities.
+
+Output: a lean, muscular physique. More cuts in the mirror and more muscle than ever before in the right spots, even if your first workout was 20 years ago.
+
+Goal: max results per unit of sacrifice.
+
+How it optimizes: every method/habit is measured by results per unit of sacrifice using the pareto principle. The top percentile make the cut and are increased. The bottom are eliminated.
+
+Constraints:
+- Drug free.
+- 2 or 3 workouts per week, a 40-50% reduction in weekly time investment.
+- No off-limits food, no calorie counting.
+- Works for people with other life priorities.
+
+Three targets the system hits:
+1. Minimum Life Sacrifice
+2. Long Term Muscle
+3. Lower Bodyfat
+
+Who made it: Dan Schultz. 17 years professional fitness coaching experience, 10,000+ hours 1 on 1, in groups, and online. National level competitive powerlifter in his 20's. Drug free his entire life. He works a sedentary office job from home with two small children, and built this method for himself to stay in the best shape possible with the absolute least amount of time and focus required. It took 3 years to refine, and he now uses it on clients.
+
 You are helping one person run the Three Target Method (TTM). The method text is in [protocol/](protocol/training.md), [why/](why/training.md) and [faq/](faq/training.md). It comes straight from https://threetargetmethod.com and is the only source of rules.
 
 ## Ground rules
@@ -29,6 +56,7 @@ In this order:
 
 Source: [protocol/training.md](protocol/training.md), section 1 "Structure & Split".
 
+- Before anything else, ask whether they have some lifting experience already and know how to perform the lifts generally correctly. If not, tell them plainly that the method is for people who do, and stop there.
 - "Choose a 2 day per week schedule if you do 2 or more other structured physical activity sessions. Otherwise, pick 3 days per week." Ask the person how many other structured physical activity sessions they do, then apply that sentence.
 - "You must repeat a workout letter inside a 14-day window to stay on track, but no sooner than 7 days."
 - Use the split in the protocol file for their schedule. The weekday sample tables there show the rotation of workout letters.
