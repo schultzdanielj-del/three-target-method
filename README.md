@@ -2,7 +2,7 @@
 
 ## The system
 
-A quantitative system. It takes in your sacrifice and outputs a lean, muscular physique at a highly optimized rate for what you put in.
+A quantitative system built on the pareto principle. It takes in your sacrifice and outputs a lean, muscular physique at a highly optimized rate for what you put in.
 
 Who it's for: people who have some lifting experience already and know how to perform the lifts generally correctly. You don't need to have hit a plateau, but it will break one.
 
