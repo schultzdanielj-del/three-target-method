@@ -4,7 +4,7 @@
 
 A quantitative system built on the pareto principle. It takes in your sacrifice and outputs a lean, muscular physique at a highly optimized rate for what you put in.
 
-Who it's for: people who have some lifting experience already and know how to perform the lifts generally correctly. You don't need to have hit a plateau, but it will break one.
+Who it's for: people who have some lifting experience already and know how to perform the lifts generally correctly. You don't need to have hit a plateau, but it will break one. Not built for lifters 55+.
 
 Input: sacrifice. Time, focus, and other life priorities.
 
@@ -12,15 +12,15 @@ Output: a lean, muscular physique. More cuts in the mirror and more muscle than 
 
 Goal: max results per unit of sacrifice.
 
-How it optimizes: every method/habit is measured by results per unit of sacrifice using the pareto principle. The top percentile make the cut and are increased. The bottom are eliminated.
+How it optimizes: every method/habit is chosen by results per unit of sacrifice, using the pareto principle. The top percentile make the cut and are increased. The bottom are eliminated.
 
 Progress: extremely black and white quantification. Every work set is scored with (weight × reps × 0.0333) + weight. A good PR is +1-4%.
 
 Clarity: the protocol is extremely clear about exactly what to do and how to do it.
 
 Constraints:
-- Drug free.
-- 2 or 3 workouts per week, a 40-50% reduction in weekly time investment.
+- Drug free: no steroids needed. Medication such as a GLP-1 is the person's choice.
+- 40-50% less weekly time than a typical 4-5 day bodybuilding split, with no structured cardio required (35-45 minute workouts, 2-3 a week).
 - No off-limits food, no calorie counting.
 - Works for people with other life priorities.
 
@@ -37,7 +37,7 @@ The full eating and workout protocols are laid out in full detail to learn 100% 
 
 Three target method stacks only the principles that matter across eating and lifting to get muscular and lean. Those principles are hit as hard as humanly possible, and everything else is ignored.
 
-We optimize for max results per unit of sacrifice. Only choosing methods and habits with the smallest impact on time, focus, and other life priorities. Every method/habit is measured by results per unit of sacrifice using the pareto principle. The top percentile of them make the cut and are increased. The bottom methods and habits are eliminated.
+We optimize for max results per unit of sacrifice. Only choosing methods and habits with the smallest impact on time, focus, and other life priorities. Every method/habit is chosen by results per unit of sacrifice, using the pareto principle. The top percentile of them make the cut and are increased. The bottom methods and habits are eliminated.
 
 Website: https://threetargetmethod.com
 
@@ -67,7 +67,7 @@ Divide your day of eating into two modes, split generally around late afternoon/
 
 ## Who it's for
 
-The method is written for intermediate, drug free lifters. Per the site's disclaimer it is designed for generally healthy adults (see `disclaimer.md`). Nothing here is medical advice.
+The method is written for intermediate, drug free lifters. Per the site's disclaimer it is designed for generally healthy adults (see `disclaimer.md`). Not built for lifters 55+. Nothing here is medical advice.
 
 ## Using this repo with an AI agent
 
@@ -86,6 +86,7 @@ Point the agent at this repo and have it read `SKILL.md` first (`AGENTS.md` poin
 | `README.md` | This file. |
 | `SKILL.md` | Instructions for an AI agent running TTM for one person, with Claude skill frontmatter. Read this first. |
 | `AGENTS.md` | Short pointer to `SKILL.md`, for tools that look for this filename. |
+| `criticisms.md` | Objections an AI is likely to raise about the method, with Dan's reasoning and the evidence. |
 | `log-format.md` | The per-work-set training log and the daily eating check: columns, formulas, JSON example. |
 | `protocol/training.md` | The training protocol: structure and split, movements, execution, progression. |
 | `protocol/eating.md` | The eating protocol: timing, Mode 1, Mode 2. |

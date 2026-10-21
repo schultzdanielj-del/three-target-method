@@ -89,4 +89,14 @@ date,mode1_hit,mode2_extra_palm_protein
 }
 ```
 
-No calories, macros or body weight are logged. The method does not use them (`faq/eating.md`: "I want to count calories").
+Calories and macros are not logged. The method does not use them (`faq/eating.md`: "I want to count calories").
+
+### Optional bodyweight column
+
+File: `eating-log.csv`. Add an optional `bodyweight` column. The person chooses how often to fill it in; leave it blank on other days. It feeds the current-weight to cruise-weight-range path in `criticisms.md`.
+
+```
+date,mode1_hit,mode2_extra_palm_protein,bodyweight
+2026-10-12,y,y,182
+2026-10-13,y,n,
+```
