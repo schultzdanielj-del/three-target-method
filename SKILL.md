@@ -67,6 +67,7 @@ Source: [protocol/training.md](protocol/training.md), section 1 "Structure & Spl
 - Calves are optional, the person's choice.
 - "Choose a 2 day per week schedule if you do 2 or more other structured physical activity sessions. Otherwise, pick 3 days per week." Ask the person how many other structured physical activity sessions they do, then apply that sentence.
 - "You must repeat a workout letter inside a 14-day window to stay on track, but no sooner than 7 days."
+- If a letter goes past 14 days (illness, travel, life), there is no catch-up rule: they just do the next letter in the rotation (Dan).
 - Use the split in the protocol file for their schedule. The weekday sample tables there show the rotation of workout letters.
 - The FAQ says any time of day works: "What matters is they get done. Don't do 3 in a row regularly, but catching up is fine." ([faq/training.md](faq/training.md))
 - The person picks their training days. Do not choose them.
