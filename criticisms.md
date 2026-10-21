@@ -39,6 +39,8 @@ Dan: "Most of the rules around eating are just so you mentally and biologically 
 ## Training
 
 ### Isn't one work set per exercise (about 2 hard sets per muscle per workout) far below the 10-20 weekly sets research favours?
+Dan: "The question we are answering is not what the most muscle growth you can get is. It's what the least sacrifice is that still gets muscle growth, all the way up to an advanced level."
+
 Site ([faq/training.md](faq/training.md)): "The benefit you might get from that optimization costs you double or triple the time spent in the gym." Also "Why only one PR set?": "Will this eventually plateau you? Possibly, but it'll happen well past the point where you're in the best shape of your life."
 
 Dan: "I'm not convinced that more volume is better beyond a shorter time frame that doesn't encompass the required timespan to achieve maximum natural muscle mass." See principles 2 and 3.
