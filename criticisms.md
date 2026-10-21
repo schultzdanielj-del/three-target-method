@@ -253,7 +253,7 @@ Limit: these are client reports, not a controlled trial of the protocol. No inde
 Dan's results above are the client record. They are self-reported by the author and not independently reviewed. The protocol, why and FAQ pages are free to read in full.
 
 ### Isn't "optimized" an overstatement? Maximum muscle needs more volume.
-Site ([faq/training.md](faq/training.md), the HIT entry): more volume may be optimal in absolute terms, and the choice is driven by "target one: absolute minimum life sacrifice". See principles 2 and 3.
+Site ([faq/training.md](faq/training.md), the HIT entry): more volume is probably better for building muscle in an 8 to 12 week window, and the program is not designed for that; the choice is driven by "target one: absolute minimum life sacrifice". See principles 2 and 3.
 
 ### How is "results per unit of sacrifice" measured?
 Dan: "To be fair, this is impossible to quantify. It's purely based on my initial entire library of knowledge, then distilled through live practice." So every method and habit is chosen by results per unit of sacrifice, using the pareto principle, not measured to a number.

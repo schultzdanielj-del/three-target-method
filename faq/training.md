@@ -28,7 +28,7 @@ If your technique is good and you give it your all, one set gives progress for a
 Use one exercise to cover both work sets. Rest 2-3 minutes, take 10-15% off the weight and do a second work set, also to failure. The second work set isn't logged or PR'd, only the first one is.
 
 ## I heard that HIT training "doesn't work"
-Science indicates that the absolute optimal way to train is with many sets per bodypart, multiple times weekly. But exactly how much better it is can't reliably be measured. The benefit you might get from that optimization costs you double or triple the time spent in the gym. It's harder to track progress on, and overuse injuries can potentially arise. This is a huge risk to consistency. But the biggest reason? It violates target one: absolute minimum life sacrifice.
+More volume is probably better if your goal is to build as much muscle as possible in an 8 to 12 week time frame. That is not what this program is designed to do. But exactly how much better it is can't reliably be measured. The benefit you might get from that optimization costs you double or triple the time spent in the gym. It's harder to track progress on, and overuse injuries can potentially arise. This is a huge risk to consistency. Should you manage to overcome all of those, you will potentially build more muscle short term, but not long term. But the biggest reason? It violates target one: absolute minimum life sacrifice.
 
 ## What if I can't do my normal exercises?
 Pick whatever you have access to that fits the body part categories. You won't set PRs but you can still train to failure. Hotel gyms, day passes, suspension strap at an Airbnb. It's all good.
