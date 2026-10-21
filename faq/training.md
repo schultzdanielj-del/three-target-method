@@ -65,7 +65,7 @@ The right movements will give you months and months of progress.
 But if you're legitimately stuck, check these in order before changing anything:
 
 - Check 1 Time span perspective
-After the first few weeks, expect fewer PRs. Exercises will consolidate in performance sideways for 2-3 workouts before setting more PRs. They won't all do this at the same time so there's always something improving. One PR per muscle group per month is still a good pace, and that adds up to mindblowing results spread across a year.
+After the first few weeks, expect fewer PRs. Exercises will consolidate in performance sideways for 2-3 workouts before setting more PRs. They won't all do this at the same time so there's always something improving. One PR per muscle group per month is still a good pace, and that adds up to large results across a year.
 
 - Check 2 Rest and recovery
 Sometimes you just have a bad week. You're stressed, sleepless, sick or something else. Progress is never linear. When you're absolutely sure you aren't at your best, focus on beating your worst performances from before instead of your best. Raising the floor raises the ceiling.

@@ -19,9 +19,9 @@ Goal: max results per unit of sacrifice.
 
 How it optimizes: every method/habit is chosen by results per unit of sacrifice, using the pareto principle. The top percentile make the cut and are increased. The bottom are eliminated.
 
-Progress: extremely black and white quantification. Every work set is scored with (weight × reps × 0.0333) + weight. A good PR is +1-4%.
+Progress is clear, single-dimensional and quantitative. Every work set is scored with (weight × reps × 0.0333) + weight. A good PR is +1-4%.
 
-Clarity: the protocol is extremely clear about exactly what to do and how to do it.
+Clarity: the protocol states exactly what to do and how to do it.
 
 Constraints:
 - Drug free: no steroids needed. Medication such as a GLP-1 is the person's choice.

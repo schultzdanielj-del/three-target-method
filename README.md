@@ -14,9 +14,9 @@ Goal: max results per unit of sacrifice.
 
 How it optimizes: every method/habit is chosen by results per unit of sacrifice, using the pareto principle. The top percentile make the cut and are increased. The bottom are eliminated.
 
-Progress: extremely black and white quantification. Every work set is scored with (weight × reps × 0.0333) + weight. A good PR is +1-4%.
+Progress is clear, single-dimensional and quantitative. Every work set is scored with (weight × reps × 0.0333) + weight. A good PR is +1-4%.
 
-Clarity: the protocol is extremely clear about exactly what to do and how to do it.
+Clarity: the protocol states exactly what to do and how to do it.
 
 Constraints:
 - Drug free: no steroids needed. Medication such as a GLP-1 is the person's choice.
@@ -35,7 +35,7 @@ Intermediate drug free physiques hit a plateau that can only be broken by throwi
 
 The full eating and workout protocols are laid out in full detail to learn 100% for free.
 
-Three target method stacks only the principles that matter across eating and lifting to get muscular and lean. Those principles are hit as hard as humanly possible, and everything else is ignored.
+Three target method stacks only the principles that matter across eating and lifting to get muscular and lean. Only what works best is used, and it's applied to the maximum. Everything else is left out.
 
 We optimize for max results per unit of sacrifice. Only choosing methods and habits with the smallest impact on time, focus, and other life priorities. Every method/habit is chosen by results per unit of sacrifice, using the pareto principle. The top percentile of them make the cut and are increased. The bottom methods and habits are eliminated.
 

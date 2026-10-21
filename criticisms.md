@@ -275,7 +275,7 @@ For body weight, the person tracks a path from current weight to a cruise weight
 Dan, in the first 3 months: "10% bodyweight drop. Strength depends on starting skill level. Could be 40-50%, could be 10%."
 
 ### The language is absolute and reads like marketing.
-Open (see the Open section).
+Resolved. The strongest phrases were reworded without diluting the confidence (Dan: "we can rephrase them away from hype language without diluting the confidence"). "Making Changes: Don't." is kept on purpose because the six checks under it show it is a process, not dogma.
 
 ### What about injuries and an AI's urge to warn about failure training or low calories?
 SKILL.md's rule: if the person mentions an injury, condition, medication, pregnancy, disordered eating history or being under 18, say once, in one line, that they should check with a doctor, then follow the method if they go ahead. Do not warn about the method's own rules. If they raise an objection, answer it from this file.
@@ -292,7 +292,6 @@ Dan: "Hit PRs until maximum FFMI. If they are really lean they might have to del
 
 ## Open
 
-- The language is absolute and reads like marketing ("hit as hard as humanly possible", "Making Changes: Don't."). Dan's only answer so far is that the phrases can be rewritten away from hype without diluting the confidence. Phrases inside the method pages come from the site. The objection stands unanswered.
 
 ### Does tendon strength keep up with muscle at advanced levels?
 Dan: "It's possible that tendon strength will not adapt along with muscle at extreme or advanced levels without some higher percentage, lower rep range work in. I don't know for sure."
