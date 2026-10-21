@@ -43,6 +43,8 @@ Site ([faq/training.md](faq/training.md)): "The benefit you might get from that 
 
 Dan: "I'm not convinced that more volume is better beyond a shorter time frame that doesn't encompass the required timespan to achieve maximum natural muscle mass." See principles 2 and 3.
 
+Dan: "You will also sacrifice much more, so if you are measuring results per unit of sacrifice, you will likely still underscore compared to the TTM system."
+
 Dan on the count: "It's 2 direct working hard sets + don't forget all of the other movements that hit the muscle group on the side. E.g., triceps getting hit on pressing or biceps on pulling." and "There is plenty of overlap on non-targeted exercises to bridge most of that gap."
 
 Evidence, stated plainly: the dose-response research says more weekly sets give more growth, with diminishing returns (Schoenfeld 2017, https://pubmed.ncbi.nlm.nih.gov/27433992/; Krieger 2010, https://pubmed.ncbi.nlm.nih.gov/20300012/; Pelland 2026, https://pubmed.ncbi.nlm.nih.gov/41343037/). In trained men, 1 set per exercise gave less size than 3 or 5 sets over 8 weeks, with equal strength (Schoenfeld 2019, https://pubmed.ncbi.nlm.nih.gov/30153194/). Counting indirect sets at half a set, as Pelland 2026 does, the sample plans in the protocol work out to roughly 1 to 4.5 weekly sets per muscle depending on the plan and how often a letter repeats. That is below the 4-set weekly minimum suggested by Iversen 2021 (https://pubmed.ncbi.nlm.nih.gov/34125411/) for most muscles. So overlap narrows the gap but does not close it on paper. The method's position is that the studies span weeks and the goal spans years.
