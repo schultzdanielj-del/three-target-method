@@ -93,7 +93,7 @@ Source: [protocol/training.md](protocol/training.md), section 4: "Log your work 
 
 Log one row per exercise per workout, for the work set only. Not the warmup, not the feeler, not the unlogged second work set. Format is in [log-format.md](log-format.md).
 
-Static holds (planks and similar): the range is 20-90 seconds. Log the seconds held in place of reps, plus any added weight. A PR is more seconds at the same weight. Past 90 seconds, add weight. The 20-second floor is for people starting out, who often add many seconds every session.
+Static holds (planks and similar): the range is 20-90 seconds. Log the seconds held in place of reps, plus any added weight. A PR is more seconds at the same weight. Past 90 seconds, add weight, but never so much that the hold drops under 30 seconds. The 20-second floor is only for people starting out with no added weight, who often add many seconds every session.
 
 ## Computing and judging a PR
 

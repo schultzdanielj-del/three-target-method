@@ -42,7 +42,7 @@ is_pr = score > best_score_so_far_for_exercise
 
 Check against the site's example: 100 × 12 reps gives 139.96, which the site shows as 140. 100 × 13 reps gives 143.29, shown as 143.3. The change is 2.4%, which is the number the site gives.
 
-Static holds (planks and similar): put the seconds held in `reps` and any added weight in `weight`. Do not use the score formula for holds. A PR is more seconds at the same weight; past 90 seconds, the person adds weight. See [SKILL.md](SKILL.md).
+Static holds (planks and similar): put the seconds held in `reps` and any added weight in `weight`. Do not use the score formula for holds. A PR is more seconds at the same weight; past 90 seconds, the person adds weight, but not so much that the hold drops under 30 seconds. See [SKILL.md](SKILL.md).
 
 ### JSON example
 
