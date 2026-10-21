@@ -103,7 +103,7 @@ Score = (weight × reps × 0.0333) + weight.
 
 - Example from the site: 100 × 12 reps = 140. Next time, 100 × 13 reps = 143.3. That's 2.4% more, a PR.
 - "Your goal is to beat your best performance." A PR is a score higher than the best score logged so far for that exercise.
-- "A good PR is +1-4% on an exercise, creating large progress over time." Report the percent change versus the previous logged set and say whether it falls in that range.
+- "A good PR is +1-4% on an exercise, creating large progress over time." Report the percent change versus the previous logged set. A PR outside that range needs no action and no comment. Early in the program, PRs are often far above +4% every session, because people are not yet at their true max weight and are still learning the movement (Dan).
 - "You can add weight or reps to set PRs." The text gives its reasoning: jumps on small muscle group movements are too big unless you get up into 25+ reps, and reps on big compound leg movements become too taxing to perform accurately above 15 reps, so add weight instead. Quote that and let the person decide.
 - If a set is not a PR, say so and report the numbers. Do not tell them to retry the set.
 - No PR on a lift for 3 months with all six checks passed and everything else done right: they are likely near their natural limit. Apply Dan's long-term answer in [criticisms.md](criticisms.md) ("What happens once I'm lean?"). Anything beyond that is a coach's call, and you say so.
