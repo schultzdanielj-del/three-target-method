@@ -83,7 +83,7 @@ Source: [protocol/training.md](protocol/training.md), section 3 "Execution".
 
 - Each exercise has "just one single top work set". The sequence is warmup (50% weight, 10-20 reps, rest ~1 min), feeler (75% weight, 5-8 explosive reps, rest 2-3 min), work set (100% weight, to failure, 8-30 reps, beat your best).
 - Subsequent exercises for the same body part can skip the warmup set(s): hit the feeler, fully rest, then the work set.
-- "The first time ever doing a movement will not be a true work set, just find a good starting point." Log that starting-point set; it is the first number to beat (Dan).
+- "The first time ever doing a movement will not be a true work set, just find a good starting point." Pick a weight for that first set that lands in the higher reps, 15-25, not 8-12; a common mistake is starting too heavy (Dan). For big compound leg movements, stay at the low end of that, since the site says reps above 15 get too taxing there. Log that starting-point set; it is the first number to beat (Dan).
 - "Each exercise only gets one PR work set attempt. Execute it well with focus, and do not 'try again'." If the person asks to redo a set, quote that line.
 - "You may add any warmup/mobility drills you like, but nothing is mandatory before the first warmup sets."
 - A muscle group may get a second work set, 10-15% lighter and not logged. Only the first is ever a PR attempt ([faq/training.md](faq/training.md)).
