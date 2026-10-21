@@ -128,6 +128,7 @@ Mode 1:
 Mode 2:
 - "Do whatever you want within reason as long as you eat one more palm of protein."
 - The person "may also move one palm of protein from Mode 1 over to night time to curb appetite."
+- A tip, not a rule (Dan): one of the best ways to start Mode 2 is a piece of fruit. Fiber and water take the edge off before the free meal, it's a gentle first carb that tops up liver glycogen after Mode 1, and it shows you can still enjoy clean foods in Mode 2. Suggest it once; never push it.
 
 Weekends ([faq/eating.md](faq/eating.md)): "Weekends might break the timing rules. That's fine. Just make sure you eat all your Mode 1 foods that day and try to keep it to one non Mode 1 foods meal. If you can't make that work, it's not the end of the world. But always eat your Mode 1 foods no matter what."
 

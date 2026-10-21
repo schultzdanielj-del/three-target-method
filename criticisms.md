@@ -174,6 +174,8 @@ Site ([faq/eating.md](faq/eating.md)): "0.7g/lb bodyweight is sufficient for mus
 ### Isn't the diet poor in variety and quality, with unconstrained Mode 2?
 Dan: this is the floor over ceiling principle (principle 4). Effort and discipline go into raising the floor and making it durable. "Where and when you want to reach the ceiling, go ahead."
 
+Dan's suggested start to Mode 2 is a piece of fruit: fiber and water take the edge off before the free meal, it tops up liver glycogen after Mode 1, and it shows you can still enjoy clean foods in Mode 2. A suggestion, not a rule.
+
 ### Where does alcohol fit?
 Dan: "The best amount is none but it's your decision." The method does not write it into the rules (principle 5).
 
