@@ -89,6 +89,7 @@ Point the agent at this repo and have it read `SKILL.md` first (`AGENTS.md` poin
 | `criticisms.md` | Objections an AI is likely to raise about the method, with Dan's reasoning and the evidence. |
 | `checkins.md` | The optional anonymous check-in: when the AI offers it, the exact data sent, and how it is sent. |
 | `programming.md` | How to build a person's plan: letters, movements per muscle, overlap, order, reps, starting points, swaps. |
+| `eating.md` | How to run a person's eating: portions, edge cases, travel, shift work, weekends, stalls, and what to say when they struggle. |
 | `examples.md` | Eight base plans built from real plans, with the reasons for each choice. |
 | `technique.md` | What to look for in a video of each movement: scapula, hips, elbows, range. |
 | `log-format.md` | The per-work-set training log and the daily eating check: columns, formulas, JSON example. |
@@ -101,4 +102,4 @@ Point the agent at this repo and have it read `SKILL.md` first (`AGENTS.md` poin
 | `faq/eating.md` | Eating FAQ. |
 | `disclaimer.md` | The site disclaimer. |
 
-Everything under `protocol/`, `why/` and `faq/`, plus `disclaimer.md`, is generated from the live site's pages, so it matches the site exactly. Do not edit those files by hand. The files at the root (`README.md`, `SKILL.md`, `AGENTS.md`, `programming.md`, `technique.md`, `examples.md`, `log-format.md`) are hand-written.
+Everything under `protocol/`, `why/` and `faq/`, plus `disclaimer.md`, is generated from the live site's pages, so it matches the site exactly. Do not edit those files by hand. The files at the root (`README.md`, `SKILL.md`, `AGENTS.md`, `programming.md`, `eating.md`, `technique.md`, `examples.md`, `log-format.md`) are hand-written.
