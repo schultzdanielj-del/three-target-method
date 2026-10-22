@@ -87,6 +87,7 @@ Point the agent at this repo and have it read `SKILL.md` first (`AGENTS.md` poin
 | `SKILL.md` | Instructions for an AI agent running TTM for one person, with Claude skill frontmatter. Read this first. |
 | `AGENTS.md` | Short pointer to `SKILL.md`, for tools that look for this filename. |
 | `criticisms.md` | Objections an AI is likely to raise about the method, with Dan's reasoning and the evidence. |
+| `checkins.md` | The optional anonymous check-in: when the AI offers it, the exact data sent, and how it is sent. |
 | `log-format.md` | The per-work-set training log and the daily eating check: columns, formulas, JSON example. |
 | `protocol/training.md` | The training protocol: structure and split, movements, execution, progression. |
 | `protocol/eating.md` | The eating protocol: timing, Mode 1, Mode 2. |
