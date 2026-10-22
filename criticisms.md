@@ -251,7 +251,7 @@ The downside: hand size tracks frame and height. A short heavy person gets a sma
 What it buys: one simple scaling rule with nothing to measure. The alternative is a calculator or table, which asks for weight, body fat and activity inputs and a daily number to hit. Not found: any study comparing hand size with lean mass or protein need, so the claim that hand size fits body size is Dan's reasoning, not tested.
 
 ### Does 0.7 g/lb protein hold up?
-Site ([faq/eating.md](faq/eating.md)): "0.7g/lb bodyweight is sufficient for muscle building." Your Mode 1 foods hit this mark regardless of what you eat after. Dan: "You'll hit optimal protein without having to count it all."
+Site ([faq/eating.md](faq/eating.md)): "About 1.6g/kg (0.73g/lb) bodyweight is sufficient for muscle building." The site line was changed on 2026-10-22 from "0.7g/lb bodyweight is sufficient for muscle building." Your Mode 1 foods hit this mark regardless of what you eat after. Dan: "You'll hit optimal protein without having to count it all."
 Dan also: "whatever the research indicates. if you eat the portions you'll hit it", meaning about 1.6 g/kg (0.73 g/lb). The Mode 1 palm portions plus the Mode 2 palm come to roughly 0.76 g/lb for a 180 lb man.
 Verified limit: Morton 2018 (https://pubmed.ncbi.nlm.nih.gov/28698222/) found gains from added protein plateau around 1.62 g/kg/day for muscle gain. Studies in a calorie deficit point higher (Helms 2014, Int J Sport Nutr Exerc Metab 24(2):127-138, https://pubmed.ncbi.nlm.nih.gov/24092765/; Longland 2016, https://pubmed.ncbi.nlm.nih.gov/26817506/).
 Dan also: "muscle protein synthesis is irrelevant." On the four-palms gap, his answer was that nobody would eat that way, which is a point about the premise.

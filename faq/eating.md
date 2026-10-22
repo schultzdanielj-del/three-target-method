@@ -23,7 +23,7 @@ You can do intermittent fasting or not when you eat Mode 1 foods. The main benef
 Mode 1 is not a low carb or ketogenic diet. But part of the day it is. The benefit you get is very smooth focus and energy levels as well as appetite suppression. That’s because your insulin sensitivity improves.
 
 ### High Protein Diets appetite regulation
-Every good nutrition strategy has one thing in common: high protein. It blunts appetite, spares muscle, and supports a bigger caloric deficit. 0.7g/lb bodyweight is sufficient for muscle building. Your Mode 1 foods hit this mark regardless of what you eat after. You can eat even more protein if you want to have an even higher daily calorie deficit.
+Every good nutrition strategy has one thing in common: high protein. It blunts appetite, spares muscle, and supports a bigger caloric deficit. About 1.6g/kg (0.73g/lb) bodyweight is sufficient for muscle building. Eating your Mode 1 portions and the extra palm of protein in Mode 2 gets you there, more or less. You can eat even more protein if you want to have an even higher daily calorie deficit.
 
 ### Precision Nutrition Measurements freedom
 Counting calories rarely works beyond a few days. The calculations are inaccurate and people end up gaming the system to their own detriment. Hand measurements are sufficiently accurate at a fraction of the time and focus required.
@@ -39,7 +39,7 @@ In contrast, if you impose the least restriction possible, you build confidence 
 My mode 1 foods are ~110g protein, 35g fat, 30g carbs, 875 calories total. I am 5'10", 180lbs and 40 years old. That easily leaves me with another 1700 calories of foods of my choice for maintenance levels. My fats reach optimal level from that and I consume plenty of carbohydrates. I don't count calories.
 
 ## Can I take supplements?
-Yes. Vitamin D in higher doses is the only thing close to a magic pill. I take 4000iu daily with fats and vitamin K. If you're deficient the effects are dramatic: better mood, recovery, energy, sleep, immunity. Creatine monohydrate 5g per day is an absolute home run for more reps and better results. Fish oil is great for joints and general health but nothing physique changing. I'm not a doctor. Look up the research and make the call.
+Yes, all optional. I take 4000iu of vitamin D daily with fats. That is the usual upper limit for adults, and the evidence supports it mainly if you're deficient, so ask your doctor about a blood test and your dose. Creatine monohydrate 5g per day lets me get a few more reps and set PRs. Fish oil is fine for general health but nothing physique changing. I'm not a doctor. Look up the research and make the call.
 
 ## What about weekends?
 Weekends might break the timing rules. That's fine. Just make sure you eat all your Mode 1 foods that day and try to keep it to one non Mode 1 foods meal. If you can't make that work, it's not the end of the world. But always eat your Mode 1 foods no matter what.
@@ -63,7 +63,7 @@ You won't have to do as much as you think. If you work outside of home, you'll h
 This is an honest and legitimate worry. Give it a try first, you might be surprised. If it's still a problem, add more mandatory foods into your Mode 1 foods. If that still doesn't work, the solution may lie outside health and fitness. Seek some help and focus on patterns that trigger the urge. They are often hardwired emotional reactions that can improve with practice and awareness. You are not a broken person.
 
 ## I still get hungry as hell at night.
-1-2 hours of sleep deficit makes you about 1 meal hungrier every day. Get your sleep back to 8 hours first. If that still doesn't work, add a 5th protein serving after dinner. Eating more of the right foods means less of the wrong ones which could be 2-3x the calories. One last trick: brush your teeth after your last meal. Only needs to stop you a few times a week to work magic.
+Poor sleep generally makes you hungrier and gives you snack attacks. Get your sleep back to 8 hours first. If that still doesn't work, add a 5th protein serving after dinner. Eating more of the right foods means less of the wrong ones which could be 2-3x the calories. One last trick: brush your teeth after your last meal. Only needs to stop you a few times a week to work magic.
 
 ## I feel very low energy and cannot work out hard.
 You're going too hard on restriction. Mode 1 foods are the minimum, not the maximum. You still need dinner. You probably need more carbs. Add carb servings after work. As you get stronger and build more muscle, your body will demand more fuel. That's a good thing. Feed it.
