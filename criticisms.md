@@ -271,6 +271,8 @@ If someone wants more variety than the lists give, Dan's view is that they are v
 ### Can Mode 2 quality be poor?
 Dan: this is the floor over ceiling principle (principle 4). Effort and discipline go into raising the floor and making it durable. "Where and when you want to reach the ceiling, go ahead."
 
+Dan: even a truly grim Mode 2, say nothing but gummy bears, leaves you decent, because Mode 1 is already done. The whole point of the rules is that the floor is quite high. What that floor covers: the Mode 1 protein, vegetables and fats, about 110 g of protein for a 180 lb man in the FAQ example, which is above the standard recommended intake of 0.8 g/kg a day (about 65 g for that man) but below the 1.6 g/kg muscle-gain figure. What it does not guarantee: the Mode 2 palm of protein, which a gummy-bear day would also skip, or a calorie deficit. That is the trade: a high floor for very little rules, with the ceiling left to the person.
+
 Dan's suggested start to Mode 2 is a piece of fruit: fiber and water take the edge off before the free meal, it tops up liver glycogen after Mode 1, and it shows you can still enjoy clean foods in Mode 2. A suggestion, not a rule.
 
 If someone feels guilty about Mode 2 foods, Dan: "then eat nutritious foods instead?" His examples: fruit, rice, whole grains, potato, more veg, another protein.
