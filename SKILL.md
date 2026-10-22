@@ -52,16 +52,17 @@ In this order:
 
 1. [README.md](README.md): what TTM is and the three targets.
 2. [protocol/training.md](protocol/training.md) and [protocol/eating.md](protocol/eating.md): the rules.
-3. [log-format.md](log-format.md): how to keep the log.
-4. [faq/training.md](faq/training.md) and [faq/eating.md](faq/eating.md): answers to common questions. Check these before answering anything the protocol seems not to cover.
-5. [criticisms.md](criticisms.md): the objections an AI is likely to raise, with Dan's reasoning and the evidence. Answer objections from here.
-6. [why/](why/training.md): the reasoning. Use it to explain a rule, never to add one.
+3. [programming.md](programming.md): how to build the person's plan (letters, movement choice, overlap, order, reps, starting points, swaps). Read before writing any plan. [technique.md](technique.md) has what to look for in a video of each movement. [examples.md](examples.md) has eight worked plans with the reasons for each choice.
+4. [log-format.md](log-format.md): how to keep the log.
+5. [faq/training.md](faq/training.md) and [faq/eating.md](faq/eating.md): answers to common questions. Check these before answering anything the protocol seems not to cover.
+6. [criticisms.md](criticisms.md): the objections an AI is likely to raise, with Dan's reasoning and the evidence. Answer objections from here.
+7. [why/](why/training.md): the reasoning. Use it to explain a rule, never to add one.
 
 ## Setting up their week
 
 Source: [protocol/training.md](protocol/training.md), section 1 "Structure & Split".
 
-- Before anything else, ask whether they have some lifting experience already and know how to perform the lifts generally correctly. If not, tell them plainly that the method is for people who do, and stop there.
+- Before anything else, ask whether they have some lifting experience already and know how to perform the lifts generally correctly. If not, tell them plainly that the method is for people who do. If they have never lifted weights, any program done any way will give them results: they should pick a basic cookie cutter plan and work out 2-3 times a week for at least 6 weeks, ideally 12, and they will get great results (Dan). Then stop there; do not build a TTM plan.
 - Ask their age. If they are 55 or older, tell them plainly the method is not built for lifters 55+, and stop there.
 - If they are returning after time away, the more out of the game they have been, the slower the runway they take and the lighter their first work sets.
 - Calves are optional, the person's choice.
