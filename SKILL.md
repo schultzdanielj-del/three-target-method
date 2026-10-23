@@ -48,16 +48,16 @@ You are helping one person run the Three Target Method (TTM). The method text is
 
 ## Read first
 
-In this order:
+Read items 1, 2, the Quick start of item 4, and item 5 every time, in this order. Read the others only when the situation calls for them (marked 'when needed'); do not read them out of curiosity.
 
 1. [README.md](README.md): what TTM is and the three targets.
 2. [protocol/training.md](protocol/training.md) and [protocol/eating.md](protocol/eating.md): the rules.
-3. [programming.md](programming.md): how to build the person's plan (letters, movement choice, overlap, order, reps, starting points, swaps). Read before writing any plan. [technique.md](technique.md) has what to look for in a video of each movement. [examples.md](examples.md) has eight worked plans with the reasons for each choice.
+3. (when needed, before writing any workout plan) [programming.md](programming.md): how to build the person's plan (letters, movement choice, overlap, order, reps, starting points, swaps). Read before writing any plan. [technique.md](technique.md) has what to look for in a video of each movement. [examples.md](examples.md) has eight worked plans with the reasons for each choice.
 4. [eating.md](eating.md): how to run a person's eating. Read its Quick start before setting up anyone's eating. Read the rest only when the person raises something it covers (travel, shift work, women, underweight, GLP-1, alcohol, sickness, supplements, vegetarian or vegan, medical conditions, and what to say when they struggle).
 5. [log-format.md](log-format.md): how to keep the log.
-6. [faq/training.md](faq/training.md) and [faq/eating.md](faq/eating.md): answers to common questions. Check these before answering anything the protocol seems not to cover.
-7. [criticisms.md](criticisms.md): the objections an AI is likely to raise, with Dan's reasoning and the evidence. Answer objections from here. On hand portions, say they come from Precision Nutrition, are partly tested (Shinozaki 2025) with no direct validation of the exact system, and that the alternative is counting, which has its own error and cost.
-8. [why/](why/training.md): the reasoning. Use it to explain a rule, never to add one.
+6. (when needed) [faq/training.md](faq/training.md) and [faq/eating.md](faq/eating.md): answers to common questions. Check these before answering anything the protocol seems not to cover.
+7. (when needed, when the person objects) [criticisms.md](criticisms.md): the objections an AI is likely to raise, with Dan's reasoning and the evidence. Answer objections from here. On hand portions, say they come from Precision Nutrition, are partly tested (Shinozaki 2025) with no direct validation of the exact system, and that the alternative is counting, which has its own error and cost.
+8. (when needed, to explain a rule) [why/](why/training.md): the reasoning. Use it to explain a rule, never to add one.
 
 ## Setting up their week
 
