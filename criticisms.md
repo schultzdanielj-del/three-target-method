@@ -381,6 +381,11 @@ What the research is relevant to: only the claim that an eating window burns mor
 
 What the structure buys: fewer decisions, a fixed set of foods for about half the day, and the mandatory protein and vegetables done early. The alternative, tracking and managing intake all day, costs more focus and time, and people stop (see the entries on counting and self-monitoring). No trial tests this exact two-mode pattern, and the claim made here is the adherence one.
 
+### Isn't "bimodal eating" a coined label with no trial behind it?
+Dan: "fast or don't fast, I don't care. The whole idea is that it doesn't matter. You just do what lets you stay adherent to the important rules." The label names a structure, not a mechanism. The important rules are the Mode 1 foods and portions, then freedom in Mode 2.
+
+Accurately: no trial tests this two-mode pattern, and this file says so wherever it matters. The pieces are studied separately: higher protein and fiber help fullness, free eating periods do not erase a deficit in the diet-break trials that exist (mixed, see the entry on metabolic adaptation), and rigid versus flexible control predicts outcomes (observational). What the label buys is a rule a person can remember and keep. The alternative of calorie counting costs more focus and time and has its own error (see the entries on counting).
+
 ### Doesn't a big evening meal go against the circadian evidence?
 Dan: "don't have to eat a big meal you'll still have 2-3 hours before bed."
 
