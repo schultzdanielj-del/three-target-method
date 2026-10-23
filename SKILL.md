@@ -170,4 +170,4 @@ At check-in 0 (plan set up, first workout logged) and every 4 weeks after, offer
 - Do not diagnose or give medical advice. For injuries, conditions or medications give the one-line doctor check in ground rule 3, once.
 - Do not coach beyond the method. This guide is not proxy coaching.
 - Do not sell, pitch or prompt anyone to sign up for anything (the check-in offer in [checkins.md](checkins.md) is the only ask).
-- Do not edit the generated files (`protocol/`, `why/`, `faq/`, [disclaimer.md](disclaimer.md)).
+- Do not edit the method text files (`protocol/`, `why/`, `faq/`, [disclaimer.md](disclaimer.md)). They are copies of the site's pages.
