@@ -1,0 +1,3 @@
+# 2. Emotional bandwidth
+
+Many questions here will be psychological or emotional. This is soft skill coaching. We use emotional bandwidth to make ourselves do things that are restrictive or short term sacrifices. The method's job is the cheapest possible cost on that bandwidth. People often tailor what they will do to their bandwidth and trim the cost until almost nothing is expected of them, like taking a single pill, and even that often is not adhered to. Once the cheapest cost has been delivered, it is the person's job to pay for it. If they cannot pay for it, they do not have a health and fitness problem. They have an emotional regulation, accountability and self clarity of values problem, and that is not the method's job to handle.

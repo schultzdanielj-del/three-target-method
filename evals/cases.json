@@ -1,0 +1,143 @@
+[
+  {
+    "id": "lifter-setup-training",
+    "turns": [
+      "I'm 34, I've lifted for about 8 years, commercial gym, full equipment. Office job, two kids, I'm done with 5 day splits. I want to use the Three Target Method. Set up my training.",
+      "All at once: I walk the dog but no other structured exercise. No injuries, nothing hurts. Squats and bench feel easy, overhead pressing bugs my shoulder a bit, pullups are fine. Goal is look better with less time.",
+      "Tuesday, Thursday, Saturday."
+    ],
+    "expected": [
+      "One question per message; does not re-ask what he already said.",
+      "No other structured sessions means 3 workouts a week, 4 letters; he picks the days and his picks are used.",
+      "Every movement comes from the protocol lists; 2 movements per muscle group; compounds first; no vertical press before horizontal; overhead press left out or swapped since it bugs his shoulder.",
+      "Leg letter about 4 exercises, other letters 4 to 6, none over 6.",
+      "Explains the set sequence (warmup, feeler, work set) and that the first time on a movement is a starting point at 15-25 reps.",
+      "Short and plain; no sales copy."
+    ]
+  },
+  {
+    "id": "lifter-setup-eating",
+    "turns": [
+      "I'm a man, 37, 5'10\", 200 lb. I work from home, two kids, I've lifted for years. I want to get lean with the least effort. I'm on the Three Target Method. Set up my eating.",
+      "No medication or conditions. I wake up at 6:30."
+    ],
+    "expected": [
+      "Asks about medication or conditions and wake time first, one per message.",
+      "Setup: Mode 1 from waking to about 3:30-5 pm, 4 palms protein, 3 fists vegetables with one cruciferous, fat thumbs only if every protein is ultra lean, no other foods; Mode 2 whatever within reason plus one more palm of protein.",
+      "No calorie target, no meal plan, no gram numbers of its own.",
+      "Daily log is two yes/no answers.",
+      "Short: the setup fits on one screen."
+    ]
+  },
+  {
+    "id": "lifter-first-workout",
+    "turns": [
+      "I'm on the Three Target Method, 3 days a week, 4 letters. Just did workout A for the first time. Low incline DB press 60s x 18, decline DB bench 55s x 16, seated DB shoulder press 40s x 15, lateral raises 20s x 22. Log it."
+    ],
+    "expected": [
+      "Logs one row per exercise with weight, reps and score, computed correctly (ideally with scripts/score.py).",
+      "Says these first sets are starting points, the numbers to beat, not PRs.",
+      "Offers the anonymous check-in once (check-in 0), not pushed.",
+      "Short."
+    ]
+  },
+  {
+    "id": "lifter-pr-session",
+    "turns": [
+      "Three Target Method log, workout B today. Last B was: pulldowns 140 x 12, chest supported row 90 x 10, single arm DB row 70 x 11, face pulls 50 x 15. Today: pulldowns 145 x 11, chest supported row 90 x 12, single arm DB row 70 x 10, face pulls 55 x 15. Which were PRs?",
+      "The single arm row felt off, can I go do it again?"
+    ],
+    "expected": [
+      "Scores and percent changes are correct: pulldowns 195.9 to 198.1 (+1.1%, PR); chest supported row 120.0 to 126.0 (+5.0%, PR); single arm DB row 95.6 to 93.3 (-2.4%, not a PR); face pulls 75.0 to 82.5 (+10.0%, PR).",
+      "Not a PR: says so, reports the numbers, no advice to fix it.",
+      "Redo: no; quotes the one PR attempt line.",
+      "Short."
+    ]
+  },
+  {
+    "id": "lifter-stall",
+    "turns": [
+      "5 months on the Three Target Method. My incline DB press hasn't gone up in 3 weeks. Should I swap it for a different chest exercise?"
+    ],
+    "expected": [
+      "Quotes 'Making Changes: Don't.' and names or walks the six checks in order.",
+      "Does not suggest a new exercise, a deload or any number of its own; the decision is the person's.",
+      "Short, no motivational language."
+    ]
+  },
+  {
+    "id": "lifter-blew-it",
+    "turns": [
+      "Three Target Method. I had a donut and chips at 10am at the office today, I blew it."
+    ],
+    "expected": [
+      "Says it broke Mode 1 and gives the line 'just eat nutritiously today, and don't do that again'.",
+      "Still eat the rest of the Mode 1 portions; no compensation rule of its own.",
+      "Short, calm, no pep talk."
+    ]
+  },
+  {
+    "id": "lifter-weekend-party",
+    "turns": [
+      "On the Three Target Method. Saturday I've got a kid's birthday party at noon with pizza and cake, then dinner out with friends. How do I handle it?"
+    ],
+    "expected": [
+      "Weekend rule: eat all the Mode 1 foods that day and try to keep it to one non Mode 1 meal; not the end of the world if not, but always eat the Mode 1 foods.",
+      "No rule of its own about how much pizza or cake.",
+      "Short."
+    ]
+  },
+  {
+    "id": "lifter-missed-week",
+    "turns": [
+      "Three Target Method, 4 letters. I got sick and missed 16 days. My last workout was C. What do I do now?"
+    ],
+    "expected": [
+      "No catch-up rule: just do the next letter in the rotation (D).",
+      "No deload, ramp or lighter-weights rule of its own.",
+      "Short."
+    ]
+  },
+  {
+    "id": "lifter-add-volume",
+    "turns": [
+      "I'm on the Three Target Method. I feel like I could do more. Can I add a second set on everything, and some cardio on off days?"
+    ],
+    "expected": [
+      "Extra sets: cannot add volume to existing muscle groups; quotes the FAQ or programming text; the decision is the person's.",
+      "Cardio or other activity: allowed as an addition (non lifting activity, steps); quotes the FAQ answer on cardio.",
+      "Short."
+    ]
+  },
+  {
+    "id": "lifter-travel",
+    "turns": [
+      "Three Target Method. I'm travelling for work Mon to Thu, hotel and conference lunches. How do I keep Mode 1 going?"
+    ],
+    "expected": [
+      "Uses the travel rules from eating/34: bring the foods first, then the other options; all Mode 1 foods still eaten by the end of the day.",
+      "No clock times or rules of its own.",
+      "Short."
+    ]
+  },
+  {
+    "id": "edge-age-58",
+    "turns": [
+      "I'm 58, I've lifted most of my life. Build me a Three Target Method plan.",
+      "I'm in great shape for my age, just build it anyway."
+    ],
+    "expected": [
+      "Says plainly the method is not built for lifters 55+ and stops, even when pushed.",
+      "No plan of any kind, no age adaptations, no coach or program recommendation."
+    ]
+  },
+  {
+    "id": "edge-never-lifted",
+    "turns": [
+      "I'm 30 and I've never lifted weights. Build me a Three Target Method plan."
+    ],
+    "expected": [
+      "Says the method is for people who already know the lifts; Dan's advice of a basic cookie cutter plan 2-3 times a week for 6 to 12 weeks; no TTM plan."
+    ]
+  }
+]

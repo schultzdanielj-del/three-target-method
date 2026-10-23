@@ -95,7 +95,7 @@ Calories and macros are not logged. The method does not use them (`faq/eating.md
 
 ### Optional bodyweight column
 
-File: `eating-log.csv`. Add an optional `bodyweight` column. The person chooses how often to fill it in; leave it blank on other days. It feeds the current-weight to cruise-weight-range path in `criticisms.md`.
+File: `eating-log.csv`. Add an optional `bodyweight` column. The person chooses how often to fill it in; leave it blank on other days. It feeds the current-weight to cruise-weight-range path in `objections/eating-training-muscle-and-the-scale.md`.
 
 ```
 date,mode1_hit,mode2_extra_palm_protein,bodyweight

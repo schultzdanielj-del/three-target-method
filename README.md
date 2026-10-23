@@ -1,6 +1,13 @@
 # Three Target Method (TTM)
 
-AI agents: read [SKILL.md](SKILL.md) first and follow it. It says which files to read and when. Fetch the raw files, not summaries.
+The Three Target Method, packaged so an AI agent can coach one person through it, using only the rules written here. People: the sections below say what the method is and how to load it into your AI. Agents: start with the next section.
+
+## Agents: start here
+
+1. Read [SKILL.md](SKILL.md) and follow it.
+2. Read only the files its "What to read" table names for the task. Each file is one topic; read the whole file.
+3. Fetch raw files, not summaries: `https://raw.githubusercontent.com/schultzdanielj-del/three-target-method/main/<path>`, for example `.../main/SKILL.md`. A summarizing fetch tool drops the exact rules and numbers.
+4. Work out every score with [scripts/score.py](scripts/score.py) if you can run Python, otherwise with a calculator.
 
 ## The system
 
@@ -71,15 +78,11 @@ Divide your day of eating into two modes, split generally around late afternoon/
 
 The method is written for intermediate, drug free lifters. Per the site's disclaimer it is designed for generally healthy adults (see `disclaimer.md`). Not built for lifters 55+. Nothing here is medical advice.
 
-## Using this repo with an AI agent
-
-Point the agent at this repo and have it read `SKILL.md` first (`AGENTS.md` points there). The agent helps one person run the method: tracking their workouts and eating against the rules written on the site. It does not coach beyond those rules.
-
 ## How to load this
 
 - Claude: download this folder and add it as a skill (the folder is named `three-target-method` and has `SKILL.md` at its top).
 - Claude Code: copy the folder into `~/.claude/skills/three-target-method`.
-- Any other AI: give it the repo link, or https://threetargetmethod.com/llms-full.txt.
+- Any other AI agent: give it this repo's link. [AGENTS.md](AGENTS.md) points it to `SKILL.md`. The site's llms-full.txt holds only the site pages, not the agent rules in this repo, so it is not enough on its own.
 
 ## File map
 
@@ -88,12 +91,14 @@ Point the agent at this repo and have it read `SKILL.md` first (`AGENTS.md` poin
 | `README.md` | This file. |
 | `SKILL.md` | Instructions for an AI agent running TTM for one person, with Claude skill frontmatter. Read this first. |
 | `AGENTS.md` | Short pointer to `SKILL.md`, for tools that look for this filename. |
-| `criticisms.md` | Objections an AI is likely to raise about the method, with Dan's reasoning and the evidence. |
+| `objections/` | Objections an AI is likely to raise about the method, with Dan's reasoning and the evidence. One small file per group of questions (training, eating by topic, who it's for, whole system, open questions). |
 | `checkins.md` | The optional anonymous check-in: when the AI offers it, the exact data sent, and how it is sent. |
-| `programming.md` | How to build a person's plan: letters, movements per muscle, overlap, order, reps, starting points, swaps. |
-| `eating.md` | How to run a person's eating: portions, edge cases, travel, shift work, weekends, stalls, and what to say when they struggle. |
-| `examples.md` | Eight base plans built from real plans, with the reasons for each choice. |
-| `technique.md` | What to look for in a video of each movement: scapula, hips, elbows, range. |
+| `programming/` | How to build a person's plan: letters, movements per muscle, overlap, order, reps, starting points, swaps. One small file per topic, numbered, with an intro first. |
+| `eating/` | How to run a person's eating: portions, edge cases, travel, shift work, weekends, stalls, and what to say when they struggle. One small file per topic, numbered, with a quick start first. |
+| `examples/` | Eight base plans built from real plans, with the reasons for each choice. One file per plan, with an intro first. |
+| `technique/` | What to look for in a video of each movement: scapula, hips, elbows, range. One file per muscle group, with an intro first. |
+| `scripts/score.py` | Works out the score, the percent change and whether a work set is a PR, from one set or a whole training log. |
+| `evals/` | Test people with the replies expected for each, and a script that runs them through Claude Haiku, Sonnet and Opus. For checking the repo after any change. |
 | `log-format.md` | The per-work-set training log and the daily eating check: columns, formulas, JSON example. |
 | `protocol/training.md` | The training protocol: structure and split, movements, execution, progression. |
 | `protocol/eating.md` | The eating protocol: timing, Mode 1, Mode 2. |
@@ -104,4 +109,4 @@ Point the agent at this repo and have it read `SKILL.md` first (`AGENTS.md` poin
 | `faq/eating.md` | Eating FAQ. |
 | `disclaimer.md` | The site disclaimer. |
 
-Everything under `protocol/`, `why/` and `faq/`, plus `disclaimer.md`, is a copy of the live site's pages. They are static files in this repo now, so when the site's copy changes, update them here to match. The files at the root (`README.md`, `SKILL.md`, `AGENTS.md`, `programming.md`, `eating.md`, `technique.md`, `examples.md`, `log-format.md`, `criticisms.md`, `checkins.md`) are hand-written, and this repo is their only source.
+Everything under `protocol/`, `why/` and `faq/`, plus `disclaimer.md`, is a copy of the live site's pages. They are static files in this repo now, so when the site's copy changes, update them here to match. The files at the root (`README.md`, `SKILL.md`, `AGENTS.md`, `log-format.md`, `checkins.md`) and the folders `programming/`, `eating/`, `technique/`, `examples/` and `objections/` are hand-written, and this repo is their only source.

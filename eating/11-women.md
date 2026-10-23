@@ -1,0 +1,5 @@
+# 11. Women
+
+Portions are the same as for men. Not all women need the morning carbs. Not everyone's body is the same. Women can try it out. It is not required of every woman. A woman can try it if she is not seeing the outcome she likes, which means difficulty with cravings and appetite regulation. The change: eat in the morning and before training (one meal can count as both), and add up to a half cupped handful (about 15g) of high-fiber carbs to the morning Mode 1 meal (berries, a bit of grains, a little fruit, legumes). This is the one exception to Mode 1 Rule 3 for that purpose. Separately, anyone can sprinkle berries into Mode 1 if they absolutely need to, and it is not a hill to die on ([section 30](30-bars-powders-fruit.md)).
+
+Dan is not a hormone specialist. No study is cited for the hormone reasoning. Dan on the cycle: this is why having some eating freedom is important. You cannot lock someone into maintenance calories, or any fixed number, and expect a woman to nail it literally every day of the month.
