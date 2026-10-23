@@ -1,5 +1,7 @@
 # Three Target Method (TTM)
 
+AI agents: read [SKILL.md](SKILL.md) first and follow it. It says which files to read and when. Fetch the raw files, not summaries.
+
 ## The system
 
 A quantitative system built on the pareto principle. It takes in your sacrifice and outputs a lean, muscular physique at a highly optimized rate for what you put in.
