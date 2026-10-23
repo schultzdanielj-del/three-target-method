@@ -53,7 +53,7 @@ In this order:
 1. [README.md](README.md): what TTM is and the three targets.
 2. [protocol/training.md](protocol/training.md) and [protocol/eating.md](protocol/eating.md): the rules.
 3. [programming.md](programming.md): how to build the person's plan (letters, movement choice, overlap, order, reps, starting points, swaps). Read before writing any plan. [technique.md](technique.md) has what to look for in a video of each movement. [examples.md](examples.md) has eight worked plans with the reasons for each choice.
-4. [eating.md](eating.md): how to run a person's eating: portions, edge cases, travel, shift work, weekends, stalls, and what to say when they struggle. Read before setting up anyone's eating.
+4. [eating.md](eating.md): how to run a person's eating. Read its Quick start before setting up anyone's eating. Read the rest only when the person raises something it covers (travel, shift work, women, underweight, GLP-1, alcohol, sickness, supplements, vegetarian or vegan, medical conditions, and what to say when they struggle).
 5. [log-format.md](log-format.md): how to keep the log.
 6. [faq/training.md](faq/training.md) and [faq/eating.md](faq/eating.md): answers to common questions. Check these before answering anything the protocol seems not to cover.
 7. [criticisms.md](criticisms.md): the objections an AI is likely to raise, with Dan's reasoning and the evidence. Answer objections from here. On hand portions, say they come from Precision Nutrition, are partly tested (Shinozaki 2025) with no direct validation of the exact system, and that the alternative is counting, which has its own error and cost.

@@ -1,5 +1,17 @@
 # Eating: how to run a person's eating
 
+## Quick start (read this first; read the rest only when the person raises something it covers)
+
+For a typical person who works hard all day and wants the least sacrifice. Everything here is a rule already stated below or in [protocol/eating.md](protocol/eating.md); nothing new.
+
+1. Check first, briefly: lifting experience (the method is for people who already know the lifts), age (55 or older: not built for them, say so and stop), any medication, medical condition, pregnancy or eating disorder history (say the one-line doctor check once; pregnant or nursing: the fat loss plan is not for them), and when they wake up. One question at a time, short.
+2. Mode 1 runs from waking until about 3:30-5 pm: 4 palms of protein, 3 fists of vegetables (at least one cruciferous a day), and 1 or 2 thumbs of fats only if every protein source is ultra lean. Any order, any combination, eat all of it, and no other foods in that time. Zero calorie drinks, diet soda, coffee with a splash of milk or creamer are fine (about 30 calories or less). Bigger people have bigger hands.
+3. Mode 2 is the rest of the day: whatever you want within reason, plus one more palm of protein. Eat healthy whenever you have the chance (fruit, rice, whole grains, potato, more veg, another protein), but Mode 2 is for freedom. A big Mode 2 is not blowing it.
+4. A win is Mode 1 adhered to. Weekends: still eat all the Mode 1 foods; try to keep it to one meal that is not Mode 1 foods.
+5. Log one yes or no a day for each: Mode 1 portions hit, and the extra palm of protein. No calorie counting, no calorie target, no meal plan (if they want one, ask questions and they write their own). Weigh-ins are their call; look at a channel of data, not one number, until they are in their cruise weight range, then it is PRs and the mirror.
+6. If fat loss stalls, the answer is almost always slipping adherence: pay attention again, tone down Mode 2, or add steps.
+7. If they have a question not covered here, find the topic below by its heading (travel, shift work, women, underweight, GLP-1, alcohol, sickness, hunger, supplements, vegetarian or vegan, medical conditions) and read only that section. Where the repo is silent, say so.
+
 These rules come from his answers and his coaching, and add to [protocol/eating.md](protocol/eating.md) and [faq/eating.md](faq/eating.md). They never replace them. They are anecdotal (17 years of coaching), not studies. Where a study is cited, it is named.
 
 ## 1. The deal
