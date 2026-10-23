@@ -374,6 +374,13 @@ The alternative, bigger daytime meals, trades away the deficit for comfort.
 
 #### Timing and sleep
 
+### Time-restricted eating shows no fat loss benefit beyond the calories it cuts, so doesn't the bimodal structure add nothing?
+Dan: "does it have to?" The structure does not need a metabolic benefit beyond the calorie cut. Its job is logistics and adherence: the FAQ says less time eating means less time to overeat, and that not eating a meal is easier than eating an unsatisfyingly small one.
+
+The downside, accurately: the trials that compared an eating window with ordinary eating found no clear weight advantage once calories fell either way. In 139 adults with obesity, eating only between 8:00 and 16:00 plus calorie restriction lost 8.0 kg at 12 months against 6.3 kg for calorie restriction alone, and the abstract reports no significant difference in the weight change between groups (Liu 2022, https://pubmed.ncbi.nlm.nih.gov/35443107/). In a 12-week trial of 116 adults, eating from noon to 8 pm gave no significant weight difference from three regular meals (-0.26 kg, 95% CI -1.30 to 0.78), and in the in-person cohort appendicular lean mass index was lower in the time-restricted group (Lowe 2020, https://pubmed.ncbi.nlm.nih.gov/32986097/). So nothing here shows the timing itself burns more fat.
+
+What the structure buys: fewer decisions, a fixed set of foods for about half the day, and the mandatory protein and vegetables done early. The alternative, tracking and managing intake all day, costs more focus and time, and people stop (see the entries on counting and self-monitoring). The claim made here is the adherence one, not a metabolic one, and the research above does not contradict it. No trial tests this exact two-mode pattern.
+
 ### Doesn't a big evening meal go against the circadian evidence?
 Dan: "don't have to eat a big meal you'll still have 2-3 hours before bed."
 
