@@ -25,7 +25,7 @@ Clarity: the protocol states exactly what to do and how to do it.
 
 Constraints:
 - Drug free: no steroids needed. Medication such as a GLP-1 is the person's choice.
-- 40-50% less weekly time than a typical 4-5 day bodybuilding split, with no structured cardio required (35-45 minute workouts, 2-3 a week).
+- 50% or more less weekly time than a typical 4-5 day bodybuilding split, with no structured cardio required (35-45 minute workouts, 2-3 a week).
 - No off-limits food, no calorie counting.
 - Works for people with other life priorities.
 

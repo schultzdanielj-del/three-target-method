@@ -715,8 +715,8 @@ Site ([faq/training.md](faq/training.md), the HIT entry): more volume is probabl
 ### How is "results per unit of sacrifice" measured?
 Dan: "To be fair, this is impossible to quantify. It's purely based on my initial entire library of knowledge, then distilled through live practice." So every method and habit is chosen by results per unit of sacrifice, using the pareto principle, not measured to a number.
 
-### Where does "40-50% less time" come from?
-Dan: a TTM workout takes 35-45 minutes, 2-3 times a week. The baseline is "a typical bodybuilding split or high volume plan", a typical 4-5 day split. No structured cardio is required either. The claim is 40-50% less weekly time than a typical 4-5 day bodybuilding split, with no structured cardio required.
+### Where does "50% or more less time" come from?
+Dan: a TTM workout takes 35-45 minutes, 2-3 times a week. The baseline is "a typical bodybuilding split or high volume plan", a typical 4-5 day split. No structured cardio is required either. The claim is 50% or more less weekly time than a typical 4-5 day bodybuilding split, with no structured cardio required (Dan, 2026-10-22: reworded from 40-50%).
 
 ### Why did some of the clients stop?
 Dan: "1 quit because of divorce happening and her life turned upside down. 1 stopped working out but never stopped the eating and is keeping their weight down. Then a few are in various states of stagnation due to just not doing the workouts."

@@ -20,7 +20,7 @@ Clarity: the protocol states exactly what to do and how to do it.
 
 Constraints:
 - Drug free: no steroids needed. Medication such as a GLP-1 is the person's choice.
-- 40-50% less weekly time than a typical 4-5 day bodybuilding split, with no structured cardio required (35-45 minute workouts, 2-3 a week).
+- 50% or more less weekly time than a typical 4-5 day bodybuilding split, with no structured cardio required (35-45 minute workouts, 2-3 a week).
 - No off-limits food, no calorie counting.
 - Works for people with other life priorities.
 
@@ -44,7 +44,7 @@ Website: https://threetargetmethod.com
 ## The three targets
 
 - Target 1 - Minimum Life Sacrifice. We optimize for max results per unit of sacrifice. Only choosing methods and habits with the smallest impact on time, focus, and other life priorities.
-- Target 2 - Long Term Muscle. Workouts target a longer runway of tail end muscle growth with a 40-50% reduction in weekly time investment.
+- Target 2 - Long Term Muscle. Workouts target a longer runway of tail end muscle growth with a 50% or more reduction in weekly time investment.
 - Target 3 - Lower Bodyfat. Dropping to lower body fat levels requires a calorie deficit. A two mode system bulletproofs the body but maximizes freedom. No off-limits food, no calorie counting.
 
 ## The training
