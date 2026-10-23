@@ -386,6 +386,11 @@ Dan: "fast or don't fast, I don't care. The whole idea is that it doesn't matter
 
 Accurately: no trial tests this two-mode pattern, and this file says so wherever it matters. The pieces are studied separately: higher protein and fiber help fullness, free eating periods do not erase a deficit in the diet-break trials that exist (mixed, see the entry on metabolic adaptation), and rigid versus flexible control predicts outcomes (observational). What the label buys is a rule a person can remember and keep. The alternative of calorie counting costs more focus and time and has its own error (see the entries on counting).
 
+### Isn't Mode 1 just a protein-sparing modified fast, a short-term tool that is not meant for years?
+Dan: this invents a claim and then judges it. The FAQ does name the protein-sparing modified fast as one of the methods the approach borrows from, and says the Mode 1 foods are essentially its foods: protein, vegetables and fats. But a protein-sparing modified fast is the whole day of eating, for a set stretch, with medical supervision. Mode 1 is the food for about the first half of the day, a minimum and not a limit, followed by Mode 2 with no food limits and an extra palm of protein. Dan: "because you have mode 2?"
+
+What the objection gets right: very low calorie diets are a medical tool with real risks when they run all day (see the entry on weight loss faster than about 1.5 kg a week and gallstones). What it misses: this is not that pattern. What the structure buys: the protein and vegetables done by late afternoon, and freedom after. No study tests this exact pattern, and nothing here claims the daytime foods are a substitute for medical advice for someone with a medical condition (doctor line, once).
+
 ### Doesn't a big evening meal go against the circadian evidence?
 Dan: "don't have to eat a big meal you'll still have 2-3 hours before bed."
 
