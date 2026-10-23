@@ -587,6 +587,11 @@ The alternative, slower loss, costs more months of sacrifice with no better rega
 
 #### Special groups
 
+### Could a cruise weight of 140 to 150 lb for women push some toward underweight?
+Dan: "no this is a woman with healthy low body fat and a high FFMI." Cruise weight is defined by composition, the weight at a healthy low body fat range combined with a high fat-free mass index, so it describes a lean, muscular woman and not an underweight one. It is a general range, and genetics and frame (wrist and ankle size) move it. The 140 to 150 lb figure is a reference point for an average-height woman, not a target for every woman.
+
+The downside, accurately: a number quoted without that context can be misread as a goal weight, and a woman who is already below her own range is underweight. For her the rule is the underweight rule: eat the Mode 1 foods every day by the end of the day, then whatever else she wants, with no deficit. The benefit of a composition-based range is that it follows how she looks and performs, and the PRs, not a scale number. The alternative, a fixed height-weight table, ignores muscle and frame. No study tests this definition of cruise weight, and no FFMI or body fat numbers are given here as a rule.
+
 ### On a GLP-1 with no appetite, isn't forcing the protein a risk?
 Dan: "Don't they need more protein in their diet? I don't understand. Am I supposed to tell them not to do it? They have a medication side effect. There's no solution for that with food without just losing the protein intake." He adds that Mode 1 is about 800 calories of the day, so it is a small amount to eat.
 
