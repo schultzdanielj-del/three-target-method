@@ -9,6 +9,7 @@
 
 - Three different people (Dan):
   - On the method and stopped for 14 days or more (sickness, travel): just pick up where you left off and accept that you had some backsliding. You probably won't be hitting any PRs for a little bit.
+  - Back after being sick: if you're still weak from being sick, you're not going to set PRs. The primary goal after you've been sick is simply getting your scale weight back to where it was before you were sick. Most of the weakness comes from dehydration.
   - Starting the method while lifting on another program now: you'll have a better chance of finding really nice starting numbers versus somebody who hasn't been working out at all, because your body will be generally more acclimated.
   - Starting the method after not exercising at all, having lifted before: just find some starting numbers that generally feel like some work, and don't worry about going as hard as possible on the first day.
 
