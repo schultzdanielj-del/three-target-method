@@ -32,7 +32,7 @@
   {
     "id": "lifter-first-workout",
     "turns": [
-      "I'm on the Three Target Method, 3 days a week, 4 letters. Just did workout A for the first time. Low incline DB press 60s x 18, decline DB bench 55s x 16, seated DB shoulder press 40s x 15, lateral raises 20s x 22. Log it."
+      "I'm on the Three Target Method, 3 days a week, 4 letters; you set up my plan last week. Just did workout A for the first time. Low incline DB press 60s x 18, decline DB bench 55s x 16, seated DB shoulder press 40s x 15, lateral raises 20s x 22. Log it."
     ],
     "expected": [
       "Logs one row per exercise with weight, reps and score, computed correctly (ideally with scripts/score.py).",
