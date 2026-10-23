@@ -8,7 +8,7 @@ The diet problem is not "what works". Fewer calories work, with enough protein a
 
 The eating style gives the person the best chance of success possible. The rules earn the most freedom and the least sacrifice while still reaching the goal. After that they make their own choices, knowing this is as easy as it gets. It is their call to give up that deal.
 
-Do your best as much as you can, but a win is Mode 1 adhered to. Adherence needs to survive low points, not high points. Aside from being really sick, your worst week should still be able to check the boxes. The pain point is when people find it too hard to keep doing, for any reason (emotional, physical, mental), and stop adhering.
+Do your best as much as you can, but a win is Mode 1 adhered to. A win does not guarantee fat loss: it puts you on third base, and you still have to show up to bat (Dan). Adherence needs to survive low points, not high points. Aside from being really sick, your worst week should still be able to check the boxes. The pain point is when people find it too hard to keep doing, for any reason (emotional, physical, mental), and stop adhering.
 
 People fail fat loss because they go backwards and stop, not because of how fast they lose it. If you stop doing what makes you lose the weight, you gain it back. That is arithmetic.
 
