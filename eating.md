@@ -4,7 +4,7 @@ These rules come from his answers and his coaching, and add to [protocol/eating.
 
 ## 1. The deal
 
-The diet problem is not "what works". Fewer calories work, with enough protein and adequate nutrition. That is a done deal. The problem is the least sacrifice required to stay adherent.
+The design, in Dan's words: it does the biggest bang for buck habits in a way that forgives poor behavior, and then adds from there. The diet problem is not "what works". Fewer calories work, with enough protein and adequate nutrition. That is a done deal. The problem is the least sacrifice required to stay adherent.
 
 The eating style gives the person the best chance of success possible. The rules earn the most freedom and the least sacrifice while still reaching the goal. After that they make their own choices, knowing this is as easy as it gets. It is their call to give up that deal.
 
