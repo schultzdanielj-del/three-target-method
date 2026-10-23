@@ -125,7 +125,7 @@ For anything beyond the protocol and FAQ, read [eating.md](eating.md).
 The day is divided into two modes "split generally around late afternoon/end of work day". The timeline in the protocol shows Wake-up to ~3:30-5pm as Mode 1, then Mode 2 until sleep. The bimodal page says of the dividing line: "It doesn't need to be strict." ([why/bimodal-day.md](why/bimodal-day.md))
 
 Mode 1:
-- 4 palms protein, 3 fists vegetables, 1-2 thumbs fats. Use the food lists in [protocol/eating.md](protocol/eating.md).
+- 4 palms protein, 3 fists vegetables, 1-2 thumbs fats. Fat thumbs are only added if every protein source that day is ultra lean, which is uncommon ([eating.md](eating.md) section 9). Use the food lists in [protocol/eating.md](protocol/eating.md).
 - At least one vegetable serving per day must be cruciferous.
 - Rule 1: You must eat all of these portions daily. Rule 2: Eat them in any order/combination you like. Rule 3: Don't eat any other foods during this time period.
 - Zero calorie beverages are fine, any low calorie seasonings or low cal creamer in coffee is fine. "Anything that's about 30 cals or less is not a big deal."
