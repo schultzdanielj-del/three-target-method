@@ -44,7 +44,7 @@ The Mode 1 foods are about 800 calories of the day. That is not the day's total:
 
 There are two kinds of people: those who put in a daily effort to eat the right thing, and those who don't. Everyone falls into one camp, and both can fail at times or not get the result they want.
 
-Group 1 can tell you what a good day of eating looks like for them, and the staple meals they eat when they are on point. They give all that to the AI, and the AI makes a bimodal (Mode 1 and Mode 2) version of it. This is the "writing their own plan by answering questions" case from section 1.
+Group 1 can tell you what a good day of eating looks like for them, and the staple meals they eat when they are on point. They give all that to the AI, and the AI makes a bimodal (Mode 1 and Mode 2) version of it. This is the "writing their own plan by answering questions" case from section 1. Exception: for anyone on diabetes medication or insulin, the AI does not build the day (see section 33).
 
 Group 2 needs to decide that they will eat certain foods. They pick foods from the list and start with that. A food they can't or won't eat: don't eat it, and pick another from the list. If there is an entire category of foods they won't eat, they have no solution and cannot do the plan. Tell them plainly and stop.
 
@@ -104,11 +104,13 @@ An underweight person's goal is: every day, eat the Mode 1 foods by the end of t
 
 ## 14. GLP-1
 
-Same Mode 1 portions. If the person has no appetite and cannot finish the protein, the answer is: they need it. Nausea and low appetite are medication side effects with no food fix, and skipping the protein only loses the protein. The Mode 1 foods are about 800 calories of the day. Do not tell them to start, stop or change the medication.
+Same Mode 1 portions. If the person has no appetite and cannot finish the protein, the answer is: they need it. Nausea and low appetite are medication side effects with no food fix, and skipping the protein only loses the protein. The Mode 1 foods are a minimum, not the day's total, and Mode 2 has no cap. Do not describe Mode 1 as a small amount or as "only 800 calories of the day" to reassure them. Do not tell them to start, stop or change the medication.
 
 ## 15. At cruise weight
 
 The eating stays the same. Keep setting PRs. As they set PRs they carry more muscle, which generally means the body likes carbohydrates more and benefits from them more and more. Dan, anecdotally: he carries a lot of muscle and is fairly lean, so he can deliberately eat a bowl of cereal, extra rice or fruit. His appetite is not out of control, and more carbs give him bigger pumps and better chances of setting PRs. The more PRs they set and the more muscle they build, the lower their bodyfat drifts, so it all fits into the same scale weight. It is a very slow process at this stage, but tiny changes have large visual impacts. That is one person's report. The claim that more muscle means more benefit from carbs is not checked here.
+
+The cruise weight examples (about 178 lb for a 5'9" man, 140-150 lb for an average-height woman) are reference points only. For other heights the AI works out a range with the person; the range moves with frame (wrist and ankle) and genetics. The AI does not scale the example by a formula of its own.
 
 ## 16. Lean but wants to look better
 
@@ -198,13 +200,15 @@ They might be a little mentally foggy for a few days while adapting, but this is
 
 Dan cannot give dietician advice for a medical condition. His opinion is that for type 2 diabetes the Mode 1 window should be helpful, not harmful. That is his opinion, not a studied result. The AI says the one-line doctor check once (SKILL.md ground rule 3) and follows the method if they go ahead.
 
-Dan's view (opinion, not medical advice): it depends on the type of diabetes. With type 2, the body needs to get better at switching to the "electric car mode" of section 3, and it will be stubborn. If you ask too much of it too soon it can crash on you, and then you have to eat something, because that is a medical emergency. People turn that into "if i feel hungry a bit i have to just slam sugar," which fixes the emergency and sustains the chronic condition. It is triage, not treatment. Limit: a true blood sugar crash is mainly a risk with insulin and some diabetes drugs, and mild hunger is not that. A doctor sets the plan for anyone on those drugs. The AI does not give medical advice.
+For anyone on diabetes medication or insulin, the AI does not build the day, does not promise that shaky spells will go away, and does not set rules about gaps between meals. It says the one-line doctor check once and leaves the plan to them and their doctor.
+
+Dan's view (opinion, not medical advice): it depends on the type of diabetes. With type 2, the body needs to get better at switching to the "electric car mode" of section 3, and it will be stubborn. If you ask too much of it too soon it can crash on you, and then you have to eat something, because that is a medical emergency. People turn that into "if i feel hungry a bit i have to just slam sugar," which fixes the emergency and sustains the chronic condition. It is triage, not treatment. Limit: a true blood sugar crash is mainly a risk with insulin and some diabetes drugs, and mild hunger is not that. A doctor sets the plan for anyone on those drugs. The AI does not give medical advice. Dan's view above stays his opinion; the AI does not restate it as its own instruction, and "if you feel shaky, eat something" is something for the person to take to their doctor, not a medical instruction from the AI.
 
 Medical edge cases are dietitian questions: blood thinners such as warfarin (vitamin K in greens), thyroid conditions, kidney disease, and similar. They are outside the method. The AI says the one-line doctor check once and does not give advice on them (Dan).
 
 ## 34. Travel and Mode 1 foods not available
 
-A tiered layer of defense. Tier 1 comes first. Tiers 2 to 5 are not ranked: the person picks what fits.
+A tiered layer of defense. Only tier 1 (bring the foods) comes first. Tiers 2 to 5 are unranked options, not an order of use: the person picks what fits. Whatever they pick, all the Mode 1 foods are still eaten that day.
 
 1. Bring the foods ahead of time.
 2. Eat Mode 1 around an unavoidable meal, like a work lunch, then have a Mode 1 meal at dinner.
@@ -214,7 +218,7 @@ A tiered layer of defense. Tier 1 comes first. Tiers 2 to 5 are not ranked: the 
 
 ## 35. Shift work
 
-Mode 1 starts when they wake up. Mode 2 starts at whatever time equates to similar timing. Shift workers benefit from 1 mg of melatonin before bed more than most people would (Dan's recollection from years ago that there is some evidence for shift work and not for normal schedules, not a study he checked; see section 40 for what is checked).
+Mode 1 starts when they wake up. Mode 2 starts at whatever time equates to similar timing. Shift workers benefit from 1 mg of melatonin before bed more than most people would (Dan's recollection from years ago that there is some evidence for shift work and not for normal schedules, not a study he checked; see section 40 for what is checked). Where the repo is silent, the AI says so. It does not invent routine rules such as "keep it the same most days" or set clock times.
 
 ## 36. Supplements
 
@@ -256,6 +260,8 @@ Ten things an AI tends to want to do on its own, and what to do instead:
 10. Validate feelings and offer a gentler version when someone says they blew it: reply "just eat nutritiously today, and don't do that again."
 
 Many objections complain that the method is not completely perfect while still being super easy to do. The method is judged on whether it is better than what people typically do and easy to keep (Dan). For example, 3 fists of vegetables is three more vegetables than a typical person eats in a day. Dan: he could fix these complaints by taking away more freedom, and that would roll the dice on adherence. Many objections also imply an alternative of eating perfectly at all times, counting all calories and never eating any junk food. Dan calls that a pipe dream. His view of the objections as a whole: they mostly complain that life is not perfect or that things have downsides, and almost all of them came with no better solution that was as good an overall deal (his judgment). An example, as an anecdote and not a typical case: Dan eats junk and treats and has takeout with his kids, and says he is at most 2 weeks of moderate smartening up away from a beach photoshoot, which is right there for him to take when he wants it. He says that is not most people's situation.
+
+When challenged on hand portions, the AI says they come from the Precision Nutrition method, that the hand scale has been partly tested (Shinozaki 2025, correlations 0.59-0.85, with wide per-meal error), that the exact system has no direct validation, and that the alternative is counting, which has its own error and cost. See [criticisms.md](criticisms.md), "Without calorie counting, how do you know there is a deficit?". It states this once and holds the rule, and does not open by conceding that the objections are partly right.
 
 The AI does not bargain with the rules. Many objections come from people being unreasonable or emotional and not lining up with reality. Where this repo lists a real limit (thin research, untested claims), the AI states it once and still holds the rule. In Dan's view, a gap in the research is no leverage to switch, because the "tested" alternatives are an even worse deal for this goal. That is his judgment and is labeled as such.
 

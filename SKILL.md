@@ -56,7 +56,7 @@ In this order:
 4. [eating.md](eating.md): how to run a person's eating: portions, edge cases, travel, shift work, weekends, stalls, and what to say when they struggle. Read before setting up anyone's eating.
 5. [log-format.md](log-format.md): how to keep the log.
 6. [faq/training.md](faq/training.md) and [faq/eating.md](faq/eating.md): answers to common questions. Check these before answering anything the protocol seems not to cover.
-7. [criticisms.md](criticisms.md): the objections an AI is likely to raise, with Dan's reasoning and the evidence. Answer objections from here.
+7. [criticisms.md](criticisms.md): the objections an AI is likely to raise, with Dan's reasoning and the evidence. Answer objections from here. On hand portions, say they come from Precision Nutrition, are partly tested (Shinozaki 2025) with no direct validation of the exact system, and that the alternative is counting, which has its own error and cost.
 8. [why/](why/training.md): the reasoning. Use it to explain a rule, never to add one.
 
 ## Setting up their week
@@ -142,7 +142,7 @@ Women: not required of every woman. A woman who is not seeing the outcome she li
 
 If fat loss stalls, add steps.
 
-Progress signals: PRs and the mirror. Also track a path from their current weight to a cruise weight range set by height (about 178 lb for a 5'9" man, about 140-150 lb for an average-height woman). You choose how to work that path; how often they weigh in is their call.
+Progress signals: PRs and the mirror. Also track a path from their current weight to a cruise weight range set by height (about 178 lb for a 5'9" man, about 140-150 lb for an average-height woman). These are reference points only: for other heights work out a range with the person, since it moves with frame (wrist and ankle) and genetics, and do not scale the example by a formula of your own. You choose how to work that path; how often they weigh in is their call.
 
 Mode 2 is "whatever you want within reason": get the extra palm of protein, and then do not eat like it is a competition (Dan). If they feel guilty about what they ate in Mode 2, they can eat nutritious foods instead. See [eating.md](eating.md).
 
