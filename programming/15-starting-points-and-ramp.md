@@ -7,6 +7,11 @@
 - Early weeks: when the reps pass the top of the range, add about 10% weight, erring toward rounding down.
 - Returning lifters: it is their call, and it is different for each area of the body. A body area with a history of injury should start very conservatively and be built slowly. Areas with no history can start harder. Dan's own low back (injured 15 years ago) is why his lunges, hip thrusts and reverse hypers started very conservatively while sissy squats and glute ham raises did not.
 
+- Three different people (Dan):
+  - On the method and stopped for 14 days or more (sickness, travel): just pick up where you left off and accept that you had some backsliding. You probably won't be hitting any PRs for a little bit.
+  - Starting the method while lifting on another program now: you'll have a better chance of finding really nice starting numbers versus somebody who hasn't been working out at all, because your body will be generally more acclimated.
+  - Starting the method after not exercising at all, having lifted before: just find some starting numbers that generally feel like some work, and don't worry about going as hard as possible on the first day.
+
 Progression after the early weeks
 - Add the smallest increment the person's weights allow in the gym. If the smallest jump is 5 lb, they will have to go all the way up toward 30 reps first, so that the 5 lb jump keeps them at the bottom end of the rep range.
 - Sometimes the person has to alternate between the heavier and the lighter weight, attempting PRs every other workout on each one, and ratchet back and forth until they make forward progress.
