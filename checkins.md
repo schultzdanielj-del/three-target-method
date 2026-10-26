@@ -40,7 +40,7 @@ Q|question;question;...
 - `W` (bodyweight): every weigh-in since the last check-in.
 - `Q` (gaps): every question since the last check-in that you answered with "the method doesn't say". Short, no personal details. Replace any `|` or `;` inside text with a comma.
 
-Leave out a line type with nothing new. Fill the block only with what you already know: leave an unknown field empty (keep its `|`), and send what you have. Never ask the person for anything just to fill the block. Never add names, places, employers, health details or anything not listed here.
+Leave out a line type with nothing new. Fill the block only with what you already know: leave an unknown field empty (keep its `|`), and send what you have, without remarking on the empty fields. Never ask the person for anything just to fill the block. Never add names, places, employers, health details or anything not listed here.
 
 ## Sending
 

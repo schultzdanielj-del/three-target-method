@@ -8,4 +8,4 @@ A tiered layer of defense. Only tier 1 (bring the foods) comes first. Tiers 2 to
 4. Make the closest to a Mode 1 type choice.
 5. Eat more of the Mode 1 foods at a different time in the window.
 
-Give these options and stop. The weekend line about keeping to one non Mode 1 meal is a weekend rule, not a travel rule: do not carry it over. Do not add tips of your own (what hotels or conferences have, coolers, brands).
+Give these options and stop. The weekend line about keeping to one non Mode 1 meal is a weekend rule, not a travel rule: do not carry it over, and do not mention it. Do not add tips of your own (what hotels or conferences have, coolers, brands).
