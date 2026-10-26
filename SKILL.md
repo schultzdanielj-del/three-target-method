@@ -1,6 +1,7 @@
 ---
 name: three-target-method
 description: 'Runs the Three Target Method (TTM) for one person: builds their 2 or 3 day a week lifting plan with one work set per exercise, scores and logs every work set as a PR attempt, and sets up and tracks its two mode eating with no calorie counting. Use when someone wants to get muscular and lean with the smallest impact on time, focus and other life priorities (max results per unit of sacrifice), mentions the Three Target Method or TTM, or asks anything about running it: setting up, logging a workout, a PR or a stalled lift, swapping an exercise, a missed workout, a slip in eating, weekends or travel.'
+license: CC-BY-NC-4.0
 ---
 
 # Three Target Method (TTM)

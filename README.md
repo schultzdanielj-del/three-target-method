@@ -110,3 +110,5 @@ The method is written for intermediate, drug free lifters. Per the site's discla
 | `disclaimer.md` | The site disclaimer. |
 
 Everything under `protocol/`, `why/` and `faq/`, plus `disclaimer.md`, is a copy of the live site's pages. They are static files in this repo now, so when the site's copy changes, update them here to match. The files at the root (`README.md`, `SKILL.md`, `AGENTS.md`, `log-format.md`, `checkins.md`) and the folders `programming/`, `eating/`, `technique/`, `examples/` and `objections/` are hand-written, and this repo is their only source.
+
+License: [CC BY-NC 4.0](LICENSE). Free to use and share with credit to Dan Schultz, not for commercial use.
