@@ -1,0 +1,3 @@
+# 10. Are carbs bad
+
+People will ask whether carbs are bad and how many to eat. Carbs are not bad. You should eat them every day. They are not Mode 1 foods, because Mode 1 is not the time for them; they go in Mode 2. Most people will eat enough carbs and do just fine, because they are not very muscular or physically active. They don't need to deliberately add them, other than maybe a fruit to kick off Mode 2, and that fruit is not mandatory. If energy is consistently poor, the FAQ says to add carb servings after work. The more muscle someone carries, the more carbs they benefit from ([section 15](15-at-cruise-weight.md)).

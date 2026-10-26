@@ -1,0 +1,5 @@
+# 15. At cruise weight
+
+The eating stays the same. Keep setting PRs. As they set PRs they carry more muscle, which generally means the body likes carbohydrates more and benefits from them more and more. Dan, anecdotally: he carries a lot of muscle and is fairly lean, so he can deliberately eat a bowl of cereal, extra rice or fruit. His appetite is not out of control, and more carbs give him bigger pumps and better chances of setting PRs. The more PRs they set and the more muscle they build, the lower their bodyfat drifts, so it all fits into the same scale weight. It is a very slow process at this stage, but tiny changes have large visual impacts. That is one person's report. The claim that more muscle means more benefit from carbs is not checked here.
+
+The cruise weight examples (about 178 lb for a 5'9" man, 140-150 lb for an average-height woman) are reference points only. For other heights the AI works out a range with the person; the range moves with frame (wrist and ankle) and genetics. The AI does not scale the example by a formula of its own.
