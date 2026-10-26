@@ -87,7 +87,7 @@ def run_case(case, model, outdir):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--models", default="haiku,sonnet,opus")
+    ap.add_argument("--models", default="sonnet,opus")
     ap.add_argument("--cases", default="")
     ap.add_argument("--jobs", type=int, default=6)
     a = ap.parse_args()
