@@ -3,10 +3,25 @@
   "displayName": "Three Target Method",
   "version": "1.0.0",
   "description": "The most muscle and leanness for the least time, focus and sacrifice. Built for builders and tech people, and for anyone else short on time.",
-  "author": { "name": "Dan Schultz", "url": "https://threetargetmethod.com" },
+  "author": {
+    "name": "Dan Schultz",
+    "url": "https://threetargetmethod.com"
+  },
   "homepage": "https://threetargetmethod.com",
   "repository": "https://github.com/schultzdanielj-del/three-target-method",
   "license": "CC-BY-NC-4.0",
-  "keywords": ["agent-skills", "claude-skills", "fitness", "strength-training", "nutrition", "developers", "founders", "productivity"],
-  "skills": ["./"]
+  "keywords": [
+    "agent-skills",
+    "claude-skills",
+    "fitness",
+    "strength-training",
+    "nutrition",
+    "developers",
+    "founders",
+    "productivity"
+  ],
+  "skills": [
+    "./"
+  ],
+  "icon": "./.claude-plugin/icon.png"
 }
