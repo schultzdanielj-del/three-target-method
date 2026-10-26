@@ -132,4 +132,10 @@ Any AI that can read links: give it this repo's link and ask it to coach you.
 
 `scripts/score.py` is a local scoring calculator with no network access. It writes only the person's own training log file, and only if asked (`--write` or `--add`). The agent may fetch this repo's own files from raw.githubusercontent.com. Nothing is sent anywhere else, except the optional anonymous check-in in `checkins.md`, which posts only after the person sees the data and says yes. `evals/` holds developer tests and is never run by the skill. General fitness coaching, not medical advice. See [disclaimer.md](disclaimer.md).
 
+## Privacy
+
+The skill asks only what the method needs: age, sex, height, bodyweight, lifting experience, equipment, schedule, and any injury, condition or medication (for the one-line doctor check). It never asks for a name, email or address. The workout and eating log stays with the person and their AI; nothing is sent to Dan or anyone else by default.
+
+The one exception is the optional anonymous check-in ([checkins.md](checkins.md)): a random ID plus training, eating and bodyweight numbers, sent to a Google Form Dan owns only after the person sees the exact data and says yes. It carries no name, contact details, places or health details. Check-ins are kept with no set end date and are used only to improve the method.
+
 License: [CC BY-NC 4.0](LICENSE). Free to use and share with credit to Dan Schultz, not for commercial use.
