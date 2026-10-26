@@ -111,4 +111,25 @@ The method is written for intermediate, drug free lifters. Per the site's discla
 
 Everything under `protocol/`, `why/` and `faq/`, plus `disclaimer.md`, is a copy of the live site's pages. They are static files in this repo now, so when the site's copy changes, update them here to match. The files at the root (`README.md`, `SKILL.md`, `AGENTS.md`, `log-format.md`, `checkins.md`) and the folders `programming/`, `eating/`, `technique/`, `examples/` and `objections/` are hand-written, and this repo is their only source.
 
+## Install
+
+Any agent:
+
+```
+npx skills add schultzdanielj-del/three-target-method
+```
+
+Claude Code:
+
+```
+claude plugin marketplace add schultzdanielj-del/three-target-method
+claude plugin install three-target-method@three-target-method
+```
+
+Any AI that can read links: give it this repo's link and ask it to coach you.
+
+## What it runs and fetches
+
+`scripts/score.py` is a local scoring calculator with no network access. It writes only the person's own training log file, and only if asked (`--write` or `--add`). The agent may fetch this repo's own files from raw.githubusercontent.com. Nothing is sent anywhere else, except the optional anonymous check-in in `checkins.md`, which posts only after the person sees the data and says yes. `evals/` holds developer tests and is never run by the skill. General fitness coaching, not medical advice. See [disclaimer.md](disclaimer.md).
+
 License: [CC BY-NC 4.0](LICENSE). Free to use and share with credit to Dan Schultz, not for commercial use.

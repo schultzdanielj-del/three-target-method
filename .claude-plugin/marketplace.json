@@ -1,0 +1,12 @@
+{
+  "name": "three-target-method",
+  "description": "The most muscle and leanness for the least time, focus and sacrifice. Built for builders and tech people, and for anyone else short on time.",
+  "owner": { "name": "Dan Schultz", "url": "https://threetargetmethod.com" },
+  "plugins": [
+    {
+      "name": "three-target-method",
+      "source": "./",
+      "description": "The most muscle and leanness for the least time, focus and sacrifice. Built for builders and tech people, and for anyone else short on time."
+    }
+  ]
+}
