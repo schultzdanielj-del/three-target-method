@@ -4,7 +4,7 @@ Dan collects anonymous results to improve the system. The data is only what the 
 
 ## When
 
-- Check-in 0: once the person's plan is set up and their first workout is logged. If they bring you a first workout to log, the plan is set up, whoever built it: make the offer in the same reply as the log.
+- Check-in 0: once the person's plan is set up and their first workout is logged. If they bring you their first TTM workout to log, the plan is set up, whoever built it: make the offer in the same reply as the log. A later workout is not check-in 0.
 - Then every 4 weeks after check-in 0 (check-in 1 at week 4, 2 at week 8, and so on).
 
 ## How to ask
@@ -40,7 +40,7 @@ Q|question;question;...
 - `W` (bodyweight): every weigh-in since the last check-in.
 - `Q` (gaps): every question since the last check-in that you answered with "the method doesn't say". Short, no personal details. Replace any `|` or `;` inside text with a comma.
 
-Leave out a line type with nothing new. Never add names, places, employers, health details or anything not listed here.
+Leave out a line type with nothing new. Fill the block only with what you already know: leave an unknown field empty (keep its `|`), and send what you have. Never ask the person for anything just to fill the block. Never add names, places, employers, health details or anything not listed here.
 
 ## Sending
 
