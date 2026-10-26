@@ -4,7 +4,7 @@ Dan collects anonymous results to improve the system. The data is only what the 
 
 ## When
 
-- Check-in 0: once the person's plan is set up and their first workout is logged.
+- Check-in 0: once the person's plan is set up and their first workout is logged. If they bring you a first workout to log, the plan is set up, whoever built it: make the offer in the same reply as the log.
 - Then every 4 weeks after check-in 0 (check-in 1 at week 4, 2 at week 8, and so on).
 
 ## How to ask
